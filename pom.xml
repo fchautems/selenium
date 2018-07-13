@@ -5,13 +5,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>SeleniumWithJenkins</name>
   <description>Test Selenium with Jenkins</description>
-  
-	
-		            <!--  
-	            <suiteXmlFiles>
-	                <suiteXmlFile>testng.xml</suiteXmlFile>
-	            </suiteXmlFiles> 
-	            -->
 	
   <dependencies>
   

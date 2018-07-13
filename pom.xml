@@ -6,6 +6,13 @@
   <name>SeleniumWithJenkins</name>
   <description>Test Selenium with Jenkins</description>
   
+	
+		            <!--  
+	            <suiteXmlFiles>
+	                <suiteXmlFile>testng.xml</suiteXmlFile>
+	            </suiteXmlFiles> 
+	            -->
+	
   <dependencies>
   
     <dependency>				
